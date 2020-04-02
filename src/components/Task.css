@@ -1,0 +1,13 @@
+.red {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btnDelete {
+    font-size: 18px;
+    background: purple;
+    color: white;
+    border: none;
+    padding: '20px';
+    border-radius: 50%;
+    cursor: pointer;
+}
